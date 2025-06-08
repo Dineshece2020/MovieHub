@@ -1,0 +1,10 @@
+.navli a{
+  font: bold;
+}
+
+.navli a:hover{
+   
+  background-color: grey;
+  border-radius: 3px;
+
+}
